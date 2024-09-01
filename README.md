@@ -1,5 +1,5 @@
 ## Hi there, I'm Amna👋
-# 💫 About Me:
+# 👩🏻‍💻About Me:
 🚀 Aspiring MERN Stack Developer with less than 1 year of experience in building web applications  <br>🎥 Sharing my journey and learning experiences in web development and tech on my digital platforms  <br>💻 #codinginpublic as I grow my skills and build projects  <br>📚 Currently exploring advanced React features and MongoDB optimization techniques!<br>
 
 
